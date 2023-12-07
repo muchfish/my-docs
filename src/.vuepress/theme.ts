@@ -20,7 +20,8 @@ export default hopeTheme({
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
-
+  //文档所在分支 默认main
+  docsBranch: "master",
   // navbar
   navbar,
 
